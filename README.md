@@ -3,6 +3,8 @@
 Welcome to my course!!! <br/>
 Bienvenido a mi curso!!! <br/>
 
-This is my video (Este es mi vídeo) :https://www.youtube.com/watch?v=L4zI7Ux2zNs <br/>
+This is my video (Este es mi vídeo) :
+https://www.youtube.com/watch?v=L4zI7Ux2zNs <br/>
+https://www.youtube.com/watch?v=MKKp1HC7Fug
 
-[![Curso de Java Básico](https://img.youtube.com/vi/L4zI7Ux2zNs/0.jpg)](https://www.youtube.com/playlist?list=PLViNbzdNIbHCnlLPp3gz1s_ow3c5wKBfD)
+[![LOVE STORY](https://img.youtube.com/vi/MKKp1HC7Fug/0.jpg)](https://www.youtube.com/watch?v=MKKp1HC7Fug)
